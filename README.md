@@ -16,3 +16,5 @@ Linear SVM: 88.36% accuracy
 Logistic Regression: 88.63% accuracy
 
 _We can conclude that logistic regression performs best on this dataset with the highest accuracy_
+
+Detailed report is uploaded to the repository which explains everything the code does, please look into it for more details.
